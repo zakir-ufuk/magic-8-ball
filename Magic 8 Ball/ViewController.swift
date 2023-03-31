@@ -16,7 +16,6 @@ class ViewController: UIViewController {
         box.image = ballArray.randomElement()
     }
     
-    
 }
     
     
